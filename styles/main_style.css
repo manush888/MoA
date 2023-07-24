@@ -46,7 +46,7 @@ header .headertp div {
     padding: 8px 15px 8px 0px;
 }
 
-header .headertp div a {
+a {
     text-decoration: none;
     color: black;
 }
